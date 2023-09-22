@@ -2245,7 +2245,7 @@ input, select, textarea {
 			}
 
 			.image.icon:hover:after {
-				opacity: 1;
+				opacity: 0.5;
 			}
 
 	span.image.icon {
